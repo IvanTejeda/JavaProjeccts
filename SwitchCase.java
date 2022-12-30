@@ -10,7 +10,7 @@ public class SwitchCase {
 		case 2:
 			System.out.println("Monday");
 		default:
-			System.out.println("fuck u");
+			System.out.println("what");
 		}
 	}
 }
